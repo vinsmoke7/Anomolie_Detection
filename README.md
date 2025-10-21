@@ -11,8 +11,7 @@ This project applies unsupervised learning techniques to detect anomalies in cus
   - **Z-Score**
   - **Isolation Forest**
   - **Local Outlier Factor (LOF)**
-- Advanced forecasting-based detection using:
-  - **Facebook Prophet**
+
 
 ---
 
@@ -23,7 +22,7 @@ This project applies unsupervised learning techniques to detect anomalies in cus
 ---
 
 ### 🧰 Tools Used
-- Python (Pandas, Scikit-learn, Prophet, Seaborn, Plotly)
+- Python (Pandas, Scikit-learn, Seaborn, Plotly)
 - Jupyter Notebook
 
 ---
